@@ -1,6 +1,6 @@
 # Audio Speech Recognition and Processing
 
-This repository contains tools and scripts for processing audio files, performing speech recognition, and generating content based on prompts. It leverages the `google.genai` library for AI-powered content generation.
+This repository contains tools and scripts for processing audio files, performing speech recognition, and generating report content based on prompts. It leverages the `google.genai` library for AI-powered content generation.
 
 
 
@@ -21,6 +21,7 @@ Install dependencies using pip:
 
 ```bash
 pip install google-genai
+pip install fpdf
 python processor.py
 
 ```

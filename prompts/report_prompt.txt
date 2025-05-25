@@ -20,4 +20,4 @@ Rules:
 3. For disaster type, use standard terms like "flood", "storm", "earthquake",flash flood, droughts etc. Infer form the text.
 4. Infer occupation and gender from the speakers description.
 5. For location, infer the most specific place mentioned with respect to Bnagladesh
-You can also use the internet for this task.
+You can also use the internet for this task. Convert all in English.
