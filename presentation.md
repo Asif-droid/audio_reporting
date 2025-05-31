@@ -37,7 +37,8 @@ AI reads the transcribed text and **pulls out key facts**:
 - Where did it happen?
 - How serious is it?
 - What resources might be needed?
-
+![Example extraction 1](./output1.jpg "Output 1")
+![Example extraction 2](./output2.jpg "Output 2")
 Two types of AI models work here:
 - One understands structured information (like forms)
 - Another handles free-flowing speech (like conversations)
