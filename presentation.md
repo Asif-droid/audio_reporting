@@ -10,7 +10,8 @@ This system helps turn **crisis reports made over the phone** into **PDF documen
 - No smartphone, app, or internet needed
 - Built to **work at scale**, handle many calls at once
 - Adds structure and clarity to voice reports
-- Designed to **assist human teams**, not replace them
+- **Learns over time** using fine tuning pipeline.
+- Designed to **assist human teams**.
 
 ---
 
@@ -26,8 +27,8 @@ A person affected by a disaster makes a phone call. The system automatically rec
 ### 2. 🗣️ Speech-to-Text Conversion  
 The system listens to the audio and **translates the voice into text** using advanced voice recognition.
 
-> Example: “There’s been flooding in the northern part of the village” becomes readable text.
-
+> Example: “আনুমানিক হচ্ছে আপনার ৫০ হাজার টাকা মতো লস” becomes readable text.
+> With time and data trancription can be better even for regional languages.
 ---
 
 ### 3. 🧠 Smart Data Extraction  
